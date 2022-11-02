@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/435988.jpg");
+    display: flex;
+    background-size: 100% auto;
+    width: auto;
+    margin: 10% auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: white;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.desc {
+    display: block;
+    width: 400px;
+    margin: auto;
+}
+
+.profile-img {
+    width: 25%;
+}
+
+.social-media {
+    font-size: 2rem;
+}
+
+.fa-brands {
+    margin: 0 5px;
+}
